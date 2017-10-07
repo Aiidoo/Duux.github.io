@@ -1,0 +1,33 @@
+.biao{
+	color: white;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 6em;
+	font-family: 'ºÚÌå';
+	letter-spacing: 1cm;
+}
+
+.name{
+	color: gray;
+	font-style: normal;
+	font-weight: normal;
+	font-size: normal;
+}
+
+.entrance{
+	color: black;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 2em;
+	font-family: 'ºÚÌå';
+	text-decoration: none;
+}
+
+.text{
+	text-align: center;
+}
+
+.bc{
+	background-image: url(image1.jpg);
+	background-attachment: scroll;
+}
