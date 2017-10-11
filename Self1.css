@@ -3,7 +3,7 @@
 	font-style: italic;
 	font-weight: bold;
 	font-size: 6em;
-	font-family: 'ºÚÌå';
+	font-family: 'Times New Roman';
 	letter-spacing: 1cm;
 }
 
@@ -19,7 +19,10 @@
 	font-style: normal;
 	font-weight: normal;
 	font-size: 2em;
-	font-family: 'ºÚÌå';
+	font-family: 'Times New Roman';
+}
+
+a{
 	text-decoration: none;
 }
 
@@ -28,6 +31,7 @@
 }
 
 .bc{
-	background-image: url(image1.jpg);
-	background-attachment: scroll;
+	background-image: url(Water.jpg);
+	background-repeat: repeat;
+	background-size: 100%;
 }
